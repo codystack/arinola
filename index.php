@@ -42,6 +42,7 @@
 						<!-- page title Start -->
 						<div class="col-ms-12 mb-5">
 							<h2 class="display-5 mt-5 fw-bold">Venue</h2>
+                            <p class="text-dark"><b>Villa Valhalla:</b> 1 Grillo Street Off Awolowo Road Ikoyi behind zenith bank by polo bus stop.</p>
 							<img src="https://thevillavalhalla.com/img/property-highlight/1.jpg" alt="venue">
 						</div>
 
