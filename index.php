@@ -30,8 +30,8 @@
 					<div class="p-3 p-xl-5 p-xs-10 all-text-white portfolio-info mobile-text">
 						<h2 class="alt-font display-3 fst-italic fw-bold">Arinola @ 30</h2>
 						<p class="">Please join us for an intimate evening of music, cocktails and dinner as Arin turns 30.</p>
-                        <div class="btn btn-grad zoom-on-hover">
-							<a data-glightbox="" href="https://forms.gle/32QtRaomBRv2sWkEA"> <i class="fa fa-plus-circle text-white"></i> Reserve a Seat</a>
+                        <div class="btn btn-grad btn-lg zoom-on-hover">
+							<a data-glightbox="" href="https://forms.gle/32QtRaomBRv2sWkEA"> <i class="fa fa-plus-circle text-white"></i> R.S.V.P</a>
 						</div>
 					</div>
 				</div>
@@ -40,9 +40,9 @@
 					<div class="row mx-auto">
 
 						<!-- page title Start -->
-						<div class="col-ms-12">
+						<div class="col-ms-12 mb-5">
 							<h2 class="display-5 mt-5 fw-bold">Venue</h2>
-							<img src="assets/images/venue.jpg" alt="venue">
+							<img src="https://thevillavalhalla.com/img/property-highlight/1.jpg" alt="venue">
 						</div>
 
                         <div class="col-md-12">
