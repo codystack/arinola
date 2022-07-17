@@ -27,8 +27,8 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-12 col-md-6 col-lg-6 personal-portfolio-profile vh-100" style="background:url(assets/images/arin.jpg) no-repeat; background-repeat: no-repeat; background-position: center top; background-size: cover; background-attachment: scroll; z-index: 0;">
-					<div class="p-3 p-xl-5 p-xs-10 all-text-white portfolio-info">
-						<h2 class="alt-font display-4 fst-italic fw-bold">Arinola @ 30</h2>
+					<div class="p-3 p-xl-5 p-xs-10 all-text-white portfolio-info mobile-text">
+						<h2 class="alt-font display-3 fst-italic fw-bold">Arinola @ 30</h2>
 						<p class="">Please join us for an intimate evening of music, cocktails and dinner as Arin turns 30.</p>
                         <div class="btn btn-grad zoom-on-hover">
 							<a data-glightbox="" href="https://forms.gle/32QtRaomBRv2sWkEA"> <i class="fa fa-plus-circle text-white"></i> Reserve a Seat</a>

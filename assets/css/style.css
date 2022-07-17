@@ -17202,6 +17202,12 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
   color: #0c0c0d;
 }
 
+@media (max-device-width: 600px){
+  .mobile-text {
+      text-align: center !important;
+  } 
+}
+
 .btn-grad {
   color: #ffffff;
   background: linear-gradient(150deg, #4d0000 0%, #c20707 50%, #4d0000 100%);
