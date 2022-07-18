@@ -26,7 +26,7 @@
 	<section class="p-0 d-flex align-items-center personal-portfolio">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-12 col-md-6 col-lg-6 personal-portfolio-profile vh-100" style="background:url(assets/images/arin.jpg) no-repeat; background-repeat: no-repeat; background-position: center top; background-size: cover; background-attachment: scroll; z-index: 0;">
+				<div class="col-12 col-md-6 col-lg-6 personal-portfolio-profile vh-100" style="background:url(assets/images/arinbg.jpg) no-repeat; background-repeat: no-repeat; background-position: center top; background-size: cover; background-attachment: scroll; z-index: 0;">
 					<div class="p-3 p-xl-5 p-xs-10 all-text-white portfolio-info mobile-text">
 						<h2 class="alt-font display-3 fst-italic fw-bold">Arinola @ 30</h2>
 						<p class="">Please join us for an intimate evening of music, cocktails and dinner as Arin turns 30. <br>To serve you better please click on the button below and fill out the RSVP Form.</p>
